@@ -106,8 +106,6 @@ public class PalladiumWrapper {
 		params.add("--userType");
 		params.add("mojang");
 		
-		System.out.println(params.toString());
-		
 		System.out.println("[ DEBUG ] START!");
 		
 		// LAUNCH;
